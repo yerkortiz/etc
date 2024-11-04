@@ -16,7 +16,7 @@ To run the program, use the following command:
 ```bash
 go run main.go
 ```
-Once you run the program, you can pass interactively different values for the quantity of stocks, start and end dates, and even stock prices.
+Once you run the program, you can pass interactively different values for the quantity of stocks, start and end dates, you can even pass stock prices values.
 
 ## How to test
 
